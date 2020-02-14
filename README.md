@@ -7,5 +7,4 @@ chmod +x setup.sh && bash setup.sh
 npgen [-c chars] [length]
 
 <h5>Example:<h5>
-
-
+npgen -c abc012@ 15
