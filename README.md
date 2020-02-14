@@ -1,2 +1,6 @@
-# npgen
-simple shell based (Linux)PasswordGenerator
+Simple (Linux)PasswordGenerator
+
+# Install
+  chmod +x setup.sh && bash setup.sh
+  
+
