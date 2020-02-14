@@ -1,0 +1,1 @@
+cd $prefix/share/npgen/ && java npgen $1 $2 $3
