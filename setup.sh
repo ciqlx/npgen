@@ -1,3 +1,3 @@
 #! $prefix/bin/sh
-mkdir -p $prefix/share/npgen
+chmod +x */* && chmod +x src/java/* && mkdir -p $prefix/share/npgen
 cp src/java/* $prefix/share/npgen && cp src/npgen $prefix/bin/
